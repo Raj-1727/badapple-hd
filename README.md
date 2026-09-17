@@ -1,7 +1,7 @@
 # badapple-hd
 -----
 
-This is the upgraded version of my [badapple-py](https://github.com/Raj-1727/badapple-py) project. This badapple players allows you to play badapple in the highest quality possible
+This is the upgraded version of my [badapple-py](https://github.com/Raj-1727/badapple-py) project. This badapple player allows you to play badapple in your terminal in the highest quality possible
 
 -----
 
