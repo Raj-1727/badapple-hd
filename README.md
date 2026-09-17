@@ -11,7 +11,6 @@ This is the upgraded version of my [badapple-py](https://github.com/Raj-1727/bad
 ```
 git clone https://github.com/Raj-1727/badapple-hd
 cd ~/badapple-hd
-makepkg -si
 ```
 ## 2. Using an AUR helper
 
@@ -25,9 +24,9 @@ paru -S badapple-hd
 # Usage
 
 ```
-python badapple-hd(badapple-hd works too)      # if running from the cloned repository
+python badapple-hd      # if running from the cloned repository
 # or
-badapple-py                                    # if installed from AUR
+badapple-hd             # if installed from AUR
 ```
 ---
 
